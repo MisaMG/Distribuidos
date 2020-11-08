@@ -1,2 +1,2 @@
 # Distribuidos
-Poryecto Final de Sistemas Distribuidos
+Proyecto Final de Sistemas Distribuidos
