@@ -639,12 +639,12 @@
 /** end Our Client **/
 /*--------------------------------------------------------------------- footer ---------------------------------------------------------------------*/
  .footer {
-     background: #d8b00f;
+     background: #262626;
      padding-top:90px;
      margin-top: 90px;
 }
  .footer h2 {
-     color: #000;
+     color: #fff;
      font-size: 40px;
      font-weight: 500;
      padding-left: 223px;
@@ -711,14 +711,14 @@
     display: inline-block;
 }
  ul.lik li a {
-     color: #292323;
+     color: #fff;
      font-size: 17px;
      line-height: 27px;
      padding: 0px 25px;
      font-weight: 500;
 }
  ul.lik li a:hover {
-     color: #fff;
+     color: #f8c90d;
 }
  ul.lik li.active a {
     color: #fff;
@@ -931,5 +931,9 @@
      font-weight: bold;
      color: #fff;
      font-weight: 500;
+}
+
+.footer_Logo_Profecto_V2{
+     
 }
  
