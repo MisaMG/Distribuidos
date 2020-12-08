@@ -525,11 +525,6 @@
  .about .about_box a:hover {
      color: #e7bb0b;
 }
- .about .about_img {
-     height: 100%;
-     background: #d8b00f;
-     margin-top: 90px;
-}
  .about .about_img figure {
      margin: 0;
      margin-right: 0px;
@@ -697,11 +692,11 @@
      padding-right: 25px;
 }
  .footer_logo {
-     margin-top: 40px;
-     text-align: center;
-     border-bottom: #ddd solid 1px;
-     padding-bottom: 15px;
-     margin-bottom: 15px;
+     padding-top: 40px;
+     width: 350px; 
+     display:block;
+     margin:auto;
+     
 }
  ul.lik {
     text-align: center;
@@ -934,6 +929,8 @@
 }
 
 .footer_Logo_Profecto_V2{
-     
+     width: 350px; 
+     display:block;
+     margin:auto;
 }
  
